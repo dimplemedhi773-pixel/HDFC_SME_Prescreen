@@ -1,9 +1,9 @@
 1. Goal: Achieve a "Right-First-Time" (RFT) submission rate for SME loan applications.
 2. Result: Applications must be complete and compliant upon initial submission, minimizing rework.
-3. Problem (Current State)                                                                           Solution (RFT Engine)
-High application bounce rate due to missing/incomplete documents (KYC, Income, Business Proof)-- Digital, Rule-Based Pre-Screening Engine.
-Operational staff waste time manually checking eligibility and chasing paperwork-- Real-Time Validation: Checks documents and eligibility criteria instantly.
-Slow Time-to-Disbursement and poor customer experience (CX)-- Instant Feedback Loop: Tells applicants exactly what is missing/wrong before submission.
+3. Problem (Current State)                                          and                                    Solution (RFT Engine)
+i. High application bounce rate due to missing/incomplete documents (KYC, Income, Business Proof)-- Digital, Rule-Based Pre-Screening Engine.
+ii. Operational staff waste time manually checking eligibility and chasing paperwork-- Real-Time Validation: Checks documents and eligibility criteria instantly.
+iii. Slow Time-to-Disbursement and poor customer experience (CX)-- Instant Feedback Loop: Tells applicants exactly what is missing/wrong before submission.
 
 3. RFT Engine Core Logic
 Checks: Validates KYC, Income Proof, and Business Proof integrity and completeness.
